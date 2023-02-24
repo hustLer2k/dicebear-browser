@@ -1,0 +1,24 @@
+{
+  "name": "dicebear-browser",
+  "version": "1.0.0",
+  "description": "dicebear-browser is a fork of dicebear that allows you to generate avatar images directly in the browser",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hustLer2k/dicebear-browser.git"
+  },
+  "keywords": [
+    "dicebear",
+    "dicebear/core",
+    "dicebear-browser"
+  ],
+  "author": "Pimp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hustLer2k/dicebear-browser/issues"
+  },
+  "homepage": "https://github.com/hustLer2k/dicebear-browser#readme"
+}
