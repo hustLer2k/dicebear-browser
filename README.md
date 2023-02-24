@@ -27,21 +27,6 @@ const avatar = createAvatar(avatars.botttsNeutral, {
 document.querySelector("img").src = avatar.toDataUriSync();
 ```
 
-## Customization
-
-DiceBear Browser supports all of the same options as the original DiceBear library, as well as some additional options specific to the browser. You can customize the appearance of the avatars by passing options to the generate method:
-
-```js
-const db = new DiceBearBrowser();
-const svg = db.generate("identicon", {
-    seed: "example",
-    backgroundColor: "#ff0000",
-    color: ["#00ff00", "#0000ff"],
-    radius: 50,
-});
-document.body.appendChild(svg);
-```
-
 ## License
 
 DiceBear Browser is licensed under the MIT License.
