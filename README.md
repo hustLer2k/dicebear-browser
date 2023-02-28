@@ -10,8 +10,8 @@ npm install dicebear-browser
 
 ## Usage
 
-To generate an avatar, create a new instance of the
-DiceBearBrowser class and call the generate method:
+To generate an avatar, create a new avatar object using ```createAvatar``` as described here (https://dicebear.com/how-to-use/js-library),
+then convert the object with ```toString``` or ```toDataUriSync```.
 
 ```js
 import { createAvatar } from "dicebear-browser/core";
