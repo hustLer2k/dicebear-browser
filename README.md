@@ -1,6 +1,7 @@
 # dicebear-browser
 
 dicebear-browser is a fork of [dicebear](https://github.com/dicebear/dicebear) that allows you to generate avatar images directly in the browser. The supported methods are toString and toDataUriSync. This makes it ideal for use in web applications that require quick and easy avatar generation.
+https://www.npmjs.com/package/dicebear-browser
 
 ## Installation
 
